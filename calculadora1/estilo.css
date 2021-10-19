@@ -1,0 +1,44 @@
+*{
+	
+	margin: 0px;
+	padding: 0px;
+	
+
+}
+.contenedor{
+	background-image: url(https://fondosmil.com/fondo/26232.jpg);
+	padding: 200px;
+	/* position: relative; */
+	top: 125px;
+	color: rgb(216, 16, 139);
+
+}
+
+
+.text{
+	font-size: 30px;
+	font-family: Arial,Helvetica;
+	color: white;
+	border: 0px;
+	background: #808080;
+	width: 325.8px;
+	height: 80px;
+}
+.columna1{
+	font-size: 30px;
+	font-family: Arial,Helvetica;
+	color: white;
+	border: 0px;
+	background: #379719;
+	width: 80px;
+	height: 80px;
+}
+.columna2{
+	font-size: 30px;
+	font-family: Arial,Helvetica;
+	color: white;
+	border: 0px;
+	background: #00ff9d;
+	width: 80px;
+	height: 80px;
+}
